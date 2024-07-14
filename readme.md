@@ -22,15 +22,15 @@ WordGarden is a SwiftUI application that helps users practice spelling and word 
 ## Installation
 
 1. Clone the repository:
-  ```bash
-   git clone https://github.com/dobson980/WordGarden.git
-  ```
+```bash
+git clone https://github.com/dobson980/WordGarden.git
+```
 
 2. Open the project in Xcode:
-   ```bash
-   cd WordGarden
-   open WordGarden.xcodeproj
-   ```
+```bash
+cd WordGarden
+open WordGarden.xcodeproj
+```
 ## Usage
 
 ### Main View
